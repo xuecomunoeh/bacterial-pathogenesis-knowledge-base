@@ -6,5 +6,5 @@ This document provides a summary of key bacterial pathogens and the diseases the
 |---|---|---|
 | Strep Throat | *Staphylococcus pyogenes* | Respiratory droplets |
 | Syphilis | *Treponema pallidum* | Sexual contact |
-| Rocky Mountain Spotted Fever | *Staphylococcus pyogenes*, *Treponema pallidum* | Tick bite |
+| Rocky Mountain Spotted Fever | *Rickettsia rickettsii* | Tick bite |
 | Tuberculosis | *Mycobacterium tuberculosis* | Airborne |
